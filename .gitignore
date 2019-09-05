@@ -1,0 +1,9 @@
+build/
+.vscode/
+.exe/
+input.dat
+output.dat
+tmp_left_1.dat
+tmp_left_2.dat
+tmp_right_1.dat
+tmp_right_2.dat
